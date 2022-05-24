@@ -1,0 +1,22 @@
+.addTask {
+  /* Sample */
+}
+.todoForm{
+  margin: auto;
+  margin-left: 40%;
+  margin-top: 40px;
+/* margin-right: 5%; */
+  /* width: 30%; */
+  /* border: 1px solid red; */
+  /* display: flex; */
+  /* justify-content: space-between;
+  background-color: white; */
+
+}
+.in{
+  font-size: 20px;
+}
+.bu{
+  margin-left: 20px;
+  font-size: 20px;
+}
